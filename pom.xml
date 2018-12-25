@@ -82,13 +82,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-releases/</url>
+	      <name>Vtech Releases</name>
+	      <url>http://localhost:8082/Vtech/repository/flipkart/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-snapshot/</url>
+	      <name>Vtech Snapshot</name>
+	      <url>http://localhost:8082/Vtech/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 </distributionManagement>
 	
